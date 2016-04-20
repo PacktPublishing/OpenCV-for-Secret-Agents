@@ -1,7 +1,7 @@
 # OpenCV-for-Secret-Agents
 Chapter-wise code files
 
-This is the code repository for [OpenCV for Secret Agents](https://www.packtpub.com/application-development/opencv-secret-agents?utm_source=github&utm_medium=repository&utm_campaign=9781783287376)
+This is the code repository for [OpenCV for Secret Agents](https://www.packtpub.com/application-development/opencv-secret-agents?utm_source=github&utm_medium=repository&utm_campaign=9781783287376), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Related OpenCV books:
 
